@@ -22,19 +22,19 @@
     "url": "$VPN_USA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-usa",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 124,
-    "timeDay": 294,
-    "timeWeek": 143,
-    "timeMonth": 152,
-    "timeYear": 124,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "95.57%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.92%",
+    "time": 125,
+    "timeDay": 234,
+    "timeWeek": 147,
+    "timeMonth": 153,
+    "timeYear": 125,
     "dailyMinutesDown": {
-      "2022-11-16": 0
+      "2022-11-16": 64
     }
   }
 ]
