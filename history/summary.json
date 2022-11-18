@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 430,
-    "timeDay": 580,
-    "timeWeek": 440,
-    "timeMonth": 461,
-    "timeYear": 430,
+    "time": 428,
+    "timeDay": 324,
+    "timeWeek": 436,
+    "timeMonth": 457,
+    "timeYear": 428,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "vpn-usa",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "95.57%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.92%",
-    "time": 128,
-    "timeDay": 227,
-    "timeWeek": 144,
-    "timeMonth": 160,
-    "timeYear": 128,
+    "time": 126,
+    "timeDay": 24,
+    "timeWeek": 143,
+    "timeMonth": 157,
+    "timeYear": 126,
     "dailyMinutesDown": {
       "2022-11-16": 64
     }
